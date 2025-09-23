@@ -1,3 +1,4 @@
+"""
 import csv
 
 with open('JJInventoryDatabase - Sheet1.csv', 'r') as file:
@@ -6,3 +7,4 @@ with open('JJInventoryDatabase - Sheet1.csv', 'r') as file:
         
     for row in reader:
         print(row)
+"""
